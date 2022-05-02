@@ -1,5 +1,5 @@
 # Data-analytics
-data analytic application of machine learning
+
 This project aim to find correlation, linearality, machine learning insights for different element in strain, ciker hardness etc in the semiconductor dataset. 
 
 Most of the first step is data cleaning of the dataset for PCA, CCA, neural network machine learning applications.
